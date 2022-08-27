@@ -1,3 +1,8 @@
 body {
     background-color: teal;
 }
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+}
